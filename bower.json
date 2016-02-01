@@ -1,0 +1,27 @@
+{
+  "name": "shipment",
+  "authors": [
+    "wizardcoding <wizardcodingmachine@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.8",
+    "jquery-ui": "~1.11.4",
+    "bootstrap": "~3.3.6"
+  }
+}
