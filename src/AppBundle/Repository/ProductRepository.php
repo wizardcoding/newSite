@@ -10,4 +10,9 @@ namespace AppBundle\Repository;
  */
 class ProductRepository extends \Doctrine\ORM\EntityRepository
 {
+    public function getProducts()
+    {
+        return $this->_class;
+    }
 }
+
